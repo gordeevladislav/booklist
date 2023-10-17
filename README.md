@@ -59,7 +59,7 @@ Here is a list of book summary services/websites in case you need it:
 - [ ] Search Inside Yourself [📖](https://www.goodreads.com/book/show/12921211-search-inside-yourself)
 - [ ] The Joy of Living: Unlocking the Secret and Science of Happiness [📖](https://www.goodreads.com/book/show/289448.The_Joy_of_Living)
 - [ ] ️The Wisdom of Crowds [📖](https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds)
-- [ ] !! Yes to Life [📖](https://www.amazon.com/Yes-Life-Everything-Viktor-Frankl/dp/080700555X)
+- [ ] ‼️ Yes to Life [📖](https://www.amazon.com/Yes-Life-Everything-Viktor-Frankl/dp/080700555X)
 - [ ] The Lean Mindset [📖](https://www.goodreads.com/book/show/18635263-the-lean-mindset)
 - [ ] Overcoming the Obstacles to Psychological Balance and Compassion [📖](https://www.goodreads.com/book/show/3084431-emotional-awareness)
 - [ ] ️Influence: The Psychology of Persuasion [📖](https://www.goodreads.com/book/show/28815.Influence)
@@ -159,7 +159,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] High Performance JavaScript [📖](https://www.goodreads.com/book/show/7008656-high-performance-javascript)
 - [ ] Structured Computer Organization [📖](https://www.goodreads.com/book/show/457107.Structured_Computer_Organization)
 - [ ] Professor Frisby's Mostly Adequate Guide to Functional Programming [📖](https://www.goodreads.com/book/show/25847352-professor-frisby-s-mostly-adequate-guide-to-functional-programming)
-- [ ] !! Grokking Algorithms [📖](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+- [ ] ‼️ Grokking Algorithms [📖](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [ ] Programming Beyond Practices [📖](https://www.goodreads.com/book/show/29895093-programming-beyond-practices)
 - [ ] Thinking Forth [📖](https://www.goodreads.com/book/show/2047737.Thinking_Forth)
 - [ ] Site Reliability Engineering [📖](http://shop.oreilly.com/product/0636920041528.do)
@@ -226,7 +226,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Career, Skill Acquisition, Personal Growth
 
-- [ ] !! It doesn’t have to be crazy at work [📖](https://basecamp.com/books/calm)
+- [ ] ‼️ It doesn’t have to be crazy at work [📖](https://basecamp.com/books/calm)
 - [ ] Thinking, Fast and Slow [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [ ] Getting Things Done (2015 edition) [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
 - [ ] Deep Work [📖](https://www.goodreads.com/book/show/25744928-deep-work)
@@ -259,7 +259,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Habits & Lifestyle
 
-- [ ] !! Digital Minimalism [📖](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
+- [ ] ‼️ Digital Minimalism [📖](https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525536515)
 - [ ] Mini Habits [📖](https://www.goodreads.com/book/show/20567918-mini-habits)
 - [ ] Stick With It [📖](https://www.goodreads.com/book/show/34017101-stick-with-it)
 - [ ] Miracle Morning [📖](https://www.goodreads.com/book/show/17166225-the-miracle-morning)
@@ -311,7 +311,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 ## Management, Entrepreneurship, Strategy 
 
 - [x] Antifragile [📖](http://www.goodreads.com/book/show/13530973-antifragile)
-- [ ] !! Herding Cats [📖](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
+- [ ] ‼️ Herding Cats [📖](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
 - [ ] The Secrets of Consulting [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
 - [ ] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [ ] Start Small, Stay Small: A Developer's Guide to Launching a Startup [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)
@@ -380,5 +380,5 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## Uncategorized
 
-- [ ] !! War and Punishment [📖](https://www.amazon.com/War-Punishment-Oppression-Ukrainian-Resistance/dp/1399609017)
-- [ ] !! Spin Dictators [📖](https://www.amazon.com/Spin-Dictators-Changing-Tyranny-Century/dp/0691211418)
+- [ ] ‼️ War and Punishment [📖](https://www.amazon.com/War-Punishment-Oppression-Ukrainian-Resistance/dp/1399609017)
+- [ ] ‼️ Spin Dictators [📖](https://www.amazon.com/Spin-Dictators-Changing-Tyranny-Century/dp/0691211418)
