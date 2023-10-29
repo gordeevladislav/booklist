@@ -382,3 +382,4 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 - [ ] ‼️ War and Punishment [📖](https://www.amazon.com/War-Punishment-Oppression-Ukrainian-Resistance/dp/1399609017)
 - [ ] ‼️ Spin Dictators [📖](https://www.amazon.com/Spin-Dictators-Changing-Tyranny-Century/dp/0691211418)
+- [ ] ‼️ Моя любимая страна [📖](https://murawei.de/r017155.html)
