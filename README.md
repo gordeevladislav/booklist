@@ -45,6 +45,10 @@ Here is a list of book summary services/websites in case you need it:
 ## Mindset Enhancement
 
 - [x] Quiet: The Power of Introverts in a World That Can't Stop Talking [📖](https://www.goodreads.com/book/show/8520610-quiet)
+- [ ] Трансерфинг реальности [📖](https://www.litres.ru/book/vadim-zeland/transerfing-realnosti-stupen-i-prostranstvo-variantov-140682/)
+- [ ] Becoming Supernatural: How Common People are Doing the Uncommon [📖](https://www.amazon.com/Becoming-Supernatural-Common-People-Uncommon-ebook/dp/B0746RN3G7)
+- [ ] Inner Engineering: A Yogi's Guide to Joy [📖](https://www.amazon.com/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794)
+- [ ] No Rules Rules: Netflix and the Culture of Reinvention [📖](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
 - [ ] Learned Optimism [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism)
 - [ ] Feeling Good: The New Mood Therapy [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] The 7 Habits of Highly Effective People [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
@@ -315,6 +319,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 - [ ] The Secrets of Consulting [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
 - [ ] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [ ] Start Small, Stay Small: A Developer's Guide to Launching a Startup [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)
+- [ ] What You Do Is Who You Are: How to Create Your Business Culture [📖](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331)
 - [ ] The 100$ Startup [📖](https://www.goodreads.com/book/show/12605157-the-100-startup)
 - [ ] E-myth revisited [📖](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited)
 - [ ] The ten day MBA [📖](https://www.goodreads.com/book/show/32056475-the-10-day-mba)
