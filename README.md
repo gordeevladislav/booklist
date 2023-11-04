@@ -6,7 +6,8 @@ All categories are pretty high level and may change anytime.
 If you have something to suggest feel free to make a PR.
 
 - 📖 is a link to goodreads/amazon/etc
-- ‼️ books you do not want to miss
+- ‼️ books with high priority
+- ~unfinished~
 
 ----
 
@@ -34,7 +35,7 @@ Here is a list of book summary services/websites in case you need it:
 
 ## Learning
 
-- [ ] Make it stick: the Science of Successful Learning [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
+- [ ] ~Make it stick: the Science of Successful Learning~ [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
 - [ ] Mastery [📖](https://www.goodreads.com/book/show/13589182-mastery)
 - [ ] Pragmatic Thinkig and Learning [📖](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
 - [ ] Better: A Surgeon’s Notes on Performance [📖](https://www.goodreads.com/book/show/213233.Better)
@@ -45,12 +46,12 @@ Here is a list of book summary services/websites in case you need it:
 ## Mindset Enhancement
 
 - [x] Quiet: The Power of Introverts in a World That Can't Stop Talking [📖](https://www.goodreads.com/book/show/8520610-quiet)
+- [ ] ‼️ Feeling Good: The New Mood Therapy [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] Трансерфинг реальности [📖](https://www.litres.ru/book/vadim-zeland/transerfing-realnosti-stupen-i-prostranstvo-variantov-140682/)
 - [ ] Becoming Supernatural: How Common People are Doing the Uncommon [📖](https://www.amazon.com/Becoming-Supernatural-Common-People-Uncommon-ebook/dp/B0746RN3G7)
 - [ ] Inner Engineering: A Yogi's Guide to Joy [📖](https://www.amazon.com/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794)
 - [ ] No Rules Rules: Netflix and the Culture of Reinvention [📖](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
 - [ ] Learned Optimism [📖](https://www.goodreads.com/book/show/26123.Learned_Optimism)
-- [ ] Feeling Good: The New Mood Therapy [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] The 7 Habits of Highly Effective People [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [ ] The Subtle Art Of Not Giving a Fuck [📖](https://www.goodreads.com/book/show/28259130-the-subtle-art-of-not-giving-a-f-ck)
 - [ ] Emotional Intelligence: Why It Can Matter More Than IQ [📖](https://www.goodreads.com/book/show/26329.Emotional_Intelligence)
