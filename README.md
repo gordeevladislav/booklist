@@ -35,7 +35,7 @@ Here is a list of book summary services/websites in case you need it:
 
 ## Learning
 
-- [x] ~Make it stick: the Science of Successful Learning~ [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
+- [] ~Make it stick: the Science of Successful Learning~ [📖](https://www.goodreads.com/book/show/18770267-make-it-stick)
 - [ ] Mastery [📖](https://www.goodreads.com/book/show/13589182-mastery)
 - [ ] Pragmatic Thinkig and Learning [📖](https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning)
 - [ ] Better: A Surgeon’s Notes on Performance [📖](https://www.goodreads.com/book/show/213233.Better)
@@ -45,11 +45,11 @@ Here is a list of book summary services/websites in case you need it:
 
 ## Mindset Enhancement
 
+- [ ] ‼️ Surely You're Joking, Mr. Feynman [📖](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 - [x] Quiet: The Power of Introverts in a World That Can't Stop Talking [📖](https://www.goodreads.com/book/show/8520610-quiet)
 - [ ] ‼️ Feeling Good: The New Mood Therapy [📖](https://www.goodreads.com/book/show/46674.Feeling_Good)
 - [ ] ‼️ The 7 Habits of Highly Effective People [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
 - [ ] ‼️ Yes to Life [📖](https://www.amazon.com/Yes-Life-Everything-Viktor-Frankl/dp/080700555X)
-- [ ] Трансерфинг реальности [📖](https://www.litres.ru/book/vadim-zeland/transerfing-realnosti-stupen-i-prostranstvo-variantov-140682/)
 - [ ] Becoming Supernatural: How Common People are Doing the Uncommon [📖](https://www.amazon.com/Becoming-Supernatural-Common-People-Uncommon-ebook/dp/B0746RN3G7)
 - [ ] Inner Engineering: A Yogi's Guide to Joy [📖](https://www.amazon.com/Inner-Engineering-Yogis-Guide-Joy/dp/0812997794)
 - [ ] No Rules Rules: Netflix and the Culture of Reinvention [📖](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
@@ -124,8 +124,8 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 ## UX & Design
 
-- [x] Hooked: How to Build Habit-Forming Products [📖](https://www.goodreads.com/book/show/22668729-hooked)
-- [ ] ‼️ The Non-Designer's Design Book [📖](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
+- [x] ‼️ The Non-Designer's Design Book [📖](https://www.amazon.com/Non-Designers-Design-Book-4th/dp/0133966151)
+- [] ~Hooked: How to Build Habit-Forming Products~ [📖](https://www.goodreads.com/book/show/22668729-hooked)
 - [ ] ‼️ Inspired [📖](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers-ebook/dp/B077NRB36N)
 - [ ] Badass: Making Users Awesome [📖](https://www.goodreads.com/book/show/24737268-badass)
 - [ ] Resonate: Present Visual Stories that Transform Audiences [📖](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
@@ -233,7 +233,7 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 
 - [ ] ‼️ It doesn’t have to be crazy at work [📖](https://basecamp.com/books/calm)
 - [ ] ‼️ 80000 hours: Career Guide [📖](https://80000hours.org/career-guide/)
-- [ ] Thinking, Fast and Slow [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [ ] ‼️ Thinking, Fast and Slow [📖](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 - [ ] Getting Things Done (2015 edition) [📖](https://www.goodreads.com/book/show/22521573-getting-things-done)
 - [ ] Deep Work [📖](https://www.goodreads.com/book/show/25744928-deep-work)
 - [ ] Make the Most of Your Mind [📖](https://www.goodreads.com/book/show/888648.Make_the_Most_of_Your_Mind)
@@ -301,6 +301,9 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 ## Marketing & Sales
 
 - [x] Пиши, Сокращай  [📖](https://book.glvrd.ru/)
+- [ ] ‼️ It's Not About the Coffee: Lessons on Putting People First from a Life at Starbucks [📖](https://www.amazon.com/Its-Not-About-Coffee-Starbucks/dp/1591842727)
+- [ ] ‼️ No Rules Rules: Netflix and the Culture of Reinvention [📖](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
+- [ ] ‼️ Contagious: Why Things Catch On [📖](https://www.mann-ivanov-ferber.ru/books/psixologiia-sarafannogo-radio/)
 - [ ] Positioning: The Battle for Your Mind [📖](https://www.goodreads.com/book/show/10061378-positioning)
 - [ ] On Writing Well: The Classic Guide to Writing Nonfiction [📖](https://www.goodreads.com/book/show/53343.On_Writing_Well)
 - [ ] How I Raised Myself from Failure to Success in Selling [📖](https://www.goodreads.com/book/show/109515.How_I_Raised_Myself_From_Failure_to_Success_in_Selling)
@@ -316,10 +319,10 @@ You Don’t Know About How Others See You [📖](https://www.goodreads.com/book/
 ## Management, Entrepreneurship, Strategy 
 
 - [x] Antifragile [📖](http://www.goodreads.com/book/show/13530973-antifragile)
+- [ ] ‼️ Delivering Happiness: A Path to Profits, Passion, and Purpose [📖](https://www.mann-ivanov-ferber.ru/books/paperbook/deliveringhappiness/)
+- [ ] ‼️ The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [ ] ‼️ Herding Cats [📖](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
-- [ ] ‼️ The Black Swan: The Impact of the Highly Improbable [📖](https://www.goodreads.com/book/show/242472.The_Black_Swan)
 - [ ] The Secrets of Consulting [📖](https://www.goodreads.com/book/show/566213.The_Secrets_of_Consulting)
-- [ ] The Lean Startup [📖](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 - [ ] Start Small, Stay Small: A Developer's Guide to Launching a Startup [📖](https://www.goodreads.com/book/show/9167158-start-small-stay-small)
 - [ ] What You Do Is Who You Are: How to Create Your Business Culture [📖](https://www.amazon.com/What-You-Do-Who-Are/dp/0062871331)
 - [ ] The 100$ Startup [📖](https://www.goodreads.com/book/show/12605157-the-100-startup)
